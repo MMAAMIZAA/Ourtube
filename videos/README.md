@@ -3,10 +3,6 @@
 ----
 
 - 1 - 🎬 [Be-Master-in-One-Point-Perspective-｜-Step-by-Step-Drawing-Exercise-for-Beginners](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Be-Master-in-One-Point-Perspective-%EF%BD%9C-Step-by-Step-Drawing-Exercise-for-Beginners)
-- 2 - 🎬 [Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective)
-- 3 - 🎬 [Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_gamma_15649](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_gamma_15649)
-- 4 - 🎬 [Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_gamma_20354](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_gamma_20354)
-- 5 - 🎬 [Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_sky_17617](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_sky_17617)
 - 6 - 🎬 [Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_star_10086](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Drawing-Practice-for-Beginners-Understanding-1-and-2-Point-Perspective_star_10086)
 - 7 - 🎬 [How-to-Draw-Boxes-in-One-Point-Perspective-｜-Basics-of-Perspective](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/How-to-Draw-Boxes-in-One-Point-Perspective-%EF%BD%9C-Basics-of-Perspective)
 - 8 - 🎬 [How-to-Draw-a-Room-in-One-Point-Perspective-for-Beginnings](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/How-to-Draw-a-Room-in-One-Point-Perspective-for-Beginnings)
