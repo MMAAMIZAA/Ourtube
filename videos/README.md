@@ -23,5 +23,6 @@
 - 19 - 🎬 [Gesture-Drawing-Demo-—-Figure-Studies-by-Steven-Michael-Hampton](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Gesture-Drawing-Demo-%E2%80%94-Figure-Studies-by-Steven-Michael-Hampton)
 - 20 - 🎬 [Leon-S.-Kennedy-Edits-TikTok-Compilation-｜-Resident-Evil-Requiem](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Leon-S.-Kennedy-Edits-TikTok-Compilation-%EF%BD%9C-Resident-Evil-Requiem)
 - 21 - 🎬 [One-Minute-Gesture-Drawings-with-FORCE：-FORCE-Friday-209](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/One-Minute-Gesture-Drawings-with-FORCE%EF%BC%9A-FORCE-Friday-209)
-- 22 - 🎬 [Resident-Evil-Requiem-Tiktok-Edits-Compilation-#2](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Resident-Evil-Requiem-Tiktok-Edits-Compilation-%232)
-- 23 - 🎬 [[BRB-Talk]-RE9-Moment-edits,-28-Years-Later：-The-Bone-Temple-review-&-More](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/%5BBRB-Talk%5D-RE9-Moment-edits%2C-28-Years-Later%EF%BC%9A-The-Bone-Temple-review-%26-More)
+- 22 - 🎬 [Practice-wiith-me!!!-1-minute-Gesture-Drawing-session](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Practice-wiith-me%21%21%21-1-minute-Gesture-Drawing-session)
+- 23 - 🎬 [Resident-Evil-Requiem-Tiktok-Edits-Compilation-#2](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/Resident-Evil-Requiem-Tiktok-Edits-Compilation-%232)
+- 24 - 🎬 [[BRB-Talk]-RE9-Moment-edits,-28-Years-Later：-The-Bone-Temple-review-&-More](https://github.com/MMAAMIZAA/Ourtube/tree/main/videos/%5BBRB-Talk%5D-RE9-Moment-edits%2C-28-Years-Later%EF%BC%9A-The-Bone-Temple-review-%26-More)
